@@ -1,84 +1,116 @@
 <div align="center">
 
-<!-- Logo / Banner -->
-<br/>
-
-```
- ██████╗ █████╗ ██████╗ ███████╗███████╗██████╗ ██████╗  █████╗ ████████╗██╗  ██╗
-██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║ 
-██║     ███████║██████╔╝█████╗  █████╗  ██████╔╝██████╔╝███████║   ██║   ███████║
-██║     ██╔══██║██╔══██╗██╔══╝  ██╔══╝  ██╔══██╗██╔═══╝ ██╔══██║   ██║   ██╔══██║
-╚██████╗██║  ██║██║  ██║███████╗███████╗██║  ██║██║     ██║  ██║   ██║   ██║  ██║
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-``` 
-
-### 🧭 Discover the career that was built for *you*   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C52D9,22C993,388BDD&height=220&section=header&text=CareerPath&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=✦%20Discover%20the%20career%20built%20for%20you%20✦&descAlignY=62&descSize=20&descColor=ddd6fe" width="100%"/>
 
 <br/>
 
-[![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![React](https://img.shields.io/badge/React_18-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![MIT License](https://img.shields.io/badge/License-MIT-%2322C993.svg?style=for-the-badge)](LICENSE)
 
 <br/>
 
-> **CareerPath** is a science-backed, interactive career assessment tool that helps you cut through the noise and find the career that genuinely fits your personality, skills, and ambitions — in under 5 minutes.
+<a href="https://careerpath-finder.vercel.app">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%20Live%20Demo-%20Visit%20Now-6C52D9?style=for-the-badge&labelColor=4a38b0" alt="Live Demo"/>
+</a>
+&nbsp;
+<a href="https://github.com/SubhuPanda21/careerpath/stargazers">
+  <img src="https://img.shields.io/github/stars/SubhuPanda21/careerpath?style=for-the-badge&color=fbbf24&label=%E2%AD%90%20Stars" alt="Stars"/>
+</a>
+&nbsp;
+<a href="https://github.com/SubhuPanda21/careerpath/network/members">
+  <img src="https://img.shields.io/github/forks/SubhuPanda21/careerpath?style=for-the-badge&color=22C993&label=%F0%9F%94%B1%20Forks" alt="Forks"/>
+</a>
 
-<br/>
+<br/><br/>
 
----
+> *Most people **stumble** into a career. CareerPath makes sure you **choose** yours.*
 
 </div>
 
-## ✨ What is CareerPath?
-
-Most people stumble into a career. **CareerPath** changes that.
-
-Answer a carefully curated quiz about how you think, what you love, and where you want to go — and the app's weighted-scoring algorithm instantly surfaces your top career matches with a percentage fit score, curated learning resources, educational pathways, and a personalised action plan to get you there.
-
-Whether you're a student, a career-switcher, or just curious — CareerPath gives you clarity.
-
 ---
 
-
-## 🖼️ Screenshots
+## 🖥️ Preview
 
 <div align="center">
-
-| Home — Hero | Quiz in Progress | Your Results |
-|:-----------:|:----------------:|:------------:|
-| *(Gradient hero, CTA buttons)* | *(Progress bar, question cards)* | *(Career cards with % match)* |
-
+<br/>
+<img src="./assets/preview.png" width="90%" alt="CareerPath App Preview"/>
+<br/><br/>
 </div>
 
 ---
 
-## 🎯 Features
+## 🌟 What is CareerPath?
 
-| Feature | Description |
-|---------|-------------|
-| 🧠 **Smart Quiz Engine** | Multi-category questions (personality, skills, interests, goals) with a weighted scoring algorithm |
-| 📊 **Career Match Score** | Each result comes with a percentage match based on your unique profile |
-| 💡 **Detailed Career Cards** | Expandable cards with key skills, educational pathways, recommended courses & communities |
-| 🗺️ **Action Steps** | Personalised, step-by-step roadmap to start or advance your chosen career |
-| 🌙 **Dark Mode** | Fully theme-aware UI — looks great day or night |
-| 📱 **Fully Responsive** | Mobile-first design, works seamlessly on any screen size |
-| ⚡ **Blazing Fast** | Vite-powered build — zero config, instant HMR |
+**CareerPath** is a fast, science-backed career assessment built with React + TypeScript. Answer a short personalised quiz, get ranked career matches with percentage fit scores, and explore curated learning resources and step-by-step action roadmaps — all client-side, no backend required.
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
+
+<table>
+<tr>
+<td width="50%">
+
+🧠 **Smart Quiz Engine**
+Multi-category questions on personality, skills, interests & goals — every answer secretly carries weighted career scores.
+
+</td>
+<td width="50%">
+
+📊 **Weighted % Match Scores**
+Accumulated scores are normalised and ranked so you always see your most compatible careers first.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+💼 **12+ Career Paths**
+Software Eng · Data Science · UX/UI · Digital Marketing · Finance · Legal · Healthcare · Cybersecurity & more.
+
+</td>
+<td width="50%">
+
+📚 **Curated Learning Resources**
+Every career card ships with hand-picked courses, communities, certifications and job boards.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🗺️ **Personalised Roadmaps**
+Step-by-step action plans customised to your top career match — from day one to landing the role.
+
+</td>
+<td width="50%">
+
+🌙 **Dark Mode · 📱 Responsive**
+Fully theme-aware, looks stunning on any device, any screen size, any time of day.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Tech Stack
 
 ```
-careerpath/
-├── ⚛️  React 18       — UI component library
-├── 🔷  TypeScript     — Full static typing
-├── 🎨  Tailwind CSS   — Utility-first styling
-├── ⚡  Vite           — Lightning-fast bundler & dev server
-├── 🔗  React Router   — Client-side routing
-└── 🖼️  Lucide React   — Beautiful, consistent icons
+  ╭──────────────────────────────────────────────────────────────╮
+  │                    ✦  CAREERPATH STACK  ✦                    │
+  ├────────────────────┬─────────────────────────────────────────┤
+  │  ⚛️  React 18       │  Component-driven UI + Hooks            │
+  │  🔷  TypeScript 5.5 │  Full static typing, zero `any`         │
+  │  🎨  Tailwind 3.4   │  Utility-first, responsive styling      │
+  │  ⚡  Vite 5.4       │  Lightning HMR + optimised builds       │
+  │  🔗  React Router 6 │  Client-side SPA routing                │
+  │  🖼️  Lucide React   │  Clean, consistent icon system          │
+  │  🧠  Context API    │  Lightweight global state management     │
+  ╰────────────────────┴─────────────────────────────────────────╯
 ```
 
 ---
@@ -86,126 +118,107 @@ careerpath/
 ## 📁 Project Structure
 
 ```
-project/
-├── src/
-│   ├── components/
-│   │   ├── home/          # Hero, HowItWorks, Testimonials, CallToAction
-│   │   ├── quiz/          # QuizQuestion, ProgressBar, EmailCapture
-│   │   └── results/       # CareerCard, ActionSteps
-│   ├── context/
-│   │   ├── QuizContext    # Quiz state, scoring algorithm, navigation
-│   │   └── ThemeContext   # Dark/light mode management
-│   ├── data/
-│   │   ├── quizData.ts    # All quiz questions with weighted career affects
-│   │   └── careerData.ts  # Full career database with skills, resources & job boards
-│   ├── pages/
-│   │   ├── Home.tsx       # Landing page
-│   │   ├── Quiz.tsx       # Quiz flow
-│   │   └── Results.tsx    # Career match results
-│   └── App.tsx            # Root component & routing
-├── tailwind.config.js
-├── vite.config.ts
-└── package.json
+📦 careerpath/
+│
+├── 📂 src/
+│   ├── 📂 components/
+│   │   ├── 🏠 home/
+│   │   │   ├── Hero.tsx              ← Gradient hero + CTA buttons
+│   │   │   ├── HowItWorks.tsx        ← 4-step explainer cards
+│   │   │   ├── Testimonials.tsx      ← Social proof section
+│   │   │   └── CallToAction.tsx      ← Bottom CTA strip
+│   │   ├── 📝 quiz/
+│   │   │   ├── QuizQuestion.tsx      ← Question + answer options
+│   │   │   ├── ProgressBar.tsx       ← Animated progress indicator
+│   │   │   └── EmailCapture.tsx      ← Optional email gate
+│   │   └── 🏆 results/
+│   │       ├── CareerCard.tsx        ← Match % + expandable detail
+│   │       └── ActionSteps.tsx       ← Personalised roadmap steps
+│   ├── 📂 context/
+│   │   ├── 🧠 QuizContext.tsx        ← State + weighted scoring engine
+│   │   └── 🌙 ThemeContext.tsx       ← Dark / light mode
+│   ├── 📂 data/
+│   │   ├── 📋 quizData.ts            ← Questions with career weight maps
+│   │   └── 💼 careerData.ts          ← Career DB: skills · courses · jobs
+│   └── 📂 pages/
+│       ├── Home.tsx
+│       ├── Quiz.tsx
+│       └── Results.tsx
+│
+├── 🖼️  assets/preview.png
+├── 🎨  tailwind.config.js
+├── ⚡  vite.config.ts
+└── 📦  package.json
 ```
 
 ---
 
-## ⚙️ Getting Started
-
-### Prerequisites
-
-- **Node.js** v18 or higher
-- **npm** or **yarn**
-
-### Installation
+## 🚀 Getting Started
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/careerpath.git
+# 1. Clone
+git clone https://github.com/your-username/careerpath.git && cd careerpath
 
-# 2. Navigate into the project
-cd careerpath
-
-# 3. Install dependencies
+# 2. Install
 npm install
 
-# 4. Start the development server
+# 3. Run  →  http://localhost:5173
 npm run dev
-```
 
-The app will be available at `http://localhost:5173` 🎉
-
-### Build for Production
-
-```bash
-npm run build       # Compiles & bundles for production
-npm run preview     # Preview the production build locally
+# 4. Build for production
+npm run build
 ```
 
 ---
 
 ## 🧠 How the Scoring Algorithm Works
 
-The quiz is divided into **4 categories**: `personality`, `skills`, `interests`, and `goals`.
+Each quiz answer carries **weighted affects** — a map of career IDs to point values. After all questions, scores are normalised to a percentage and ranked highest-first.
 
-Each answer option carries a set of `affects` — a list of career IDs and weights. When you answer a question, the weights for your chosen option are accumulated into a score map:
-
-```ts
-// Each option in quizData.ts looks like:
-{
-  id: 0,
-  text: "Analytically, breaking things down step by step",
-  affects: [
-    { careerId: "data-science",          weight: 10 },
-    { careerId: "software-engineering",  weight: 8  },
-    { careerId: "finance",               weight: 7  }
-  ]
-}
-```
-
-After all questions are answered, careers are **ranked by total accumulated score** and normalised into a percentage match. The top careers are then displayed with rich detail cards.
+The quiz covers 4 categories: **Personality · Skills · Interests · Goals** — each dimension contributes differently to each career, producing a genuinely personalised match.
 
 ---
 
 ## 🗺️ Roadmap
 
-- [x] Core quiz engine with weighted scoring
-- [x] Career result cards with expandable detail
-- [x] Dark mode support
-- [x] Personalised action steps
-- [ ] 🔜 User authentication & saved results
-- [ ] 🔜 More career profiles (50+ careers)
-- [ ] 🔜 Share your results on social media
-- [ ] 🔜 AI-powered career chat advisor
+```
+  SHIPPED ────────────────────────────────────────── COMING SOON
+
+  ✅  Core quiz engine               🔜  User auth + saved results
+  ✅  Weighted scoring algorithm     🔜  50+ career profiles
+  ✅  Career match % cards           🔜  AI-powered advisor chat
+  ✅  Curated learning resources     🔜  Social share cards
+  ✅  Action step roadmaps           🔜  Career comparison tool
+  ✅  Dark mode + Responsive UI      🔜  Mobile app (React Native)
+```
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome and appreciated! Here's how to get started:
-
 ```bash
-# Fork the repo, then:
-git checkout -b feature/your-feature-name
-git commit -m "feat: add your amazing feature"
-git push origin feature/your-feature-name
-# Open a Pull Request 🚀
+git checkout -b feature/your-brilliant-idea
+git commit -m "feat: ✨ your brilliant idea"
+git push origin feature/your-brilliant-idea
+# → Open a Pull Request 🚀
 ```
 
-Please follow the existing code style and keep PRs focused and concise.
+All contributions welcome — new careers, UI polish, bug fixes, or bold new features!
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+Distributed under the **MIT License** — see [`LICENSE`](LICENSE) for details.
 
 ---
 
 <div align="center">
 
-Made with ❤️ and a lot of ☕ by **[Subhalaxmi Panda](https://github.com/SubhuPanda21)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C52D9,22C993,388BDD&height=140&section=footer" width="100%"/>
 
-⭐ If this project helped you, give it a star — it means a lot!
+**Made with ❤️ and ☕ by [Subhalaxmi Panda](https://github.com/SubhuPanda21)**
+
+*If CareerPath helped you find your direction — a ⭐ star means the world!*
 
 </div>
