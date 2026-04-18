@@ -12,7 +12,7 @@
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ``` 
 
-### 🧭 Discover the career that was built for *you*  
+### 🧭 Discover the career that was built for *you*   
 
 <br/>
 
